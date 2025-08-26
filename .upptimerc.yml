@@ -7,8 +7,16 @@ sites:
     url: https://tmak2002.dev
   - name: catsarebeautiful.de
     url: https://catsarebeautiful.de
+  - name: SearXNG
+    url: https://search.catsarebeautiful.de
+  - name: Redlib
+    url: https://redlib.catsarebeautiful.de
+  - name: Proxitok
+    url: https://proxitok.catsarebeautiful.de
+  - name: AnonymousOverflow
+    url: https://overflow.catsarebeautiful.de
 assignees:
-  - tmak2002 
+  - tmak2002
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
