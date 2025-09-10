@@ -4,10 +4,10 @@
     "url": "https://tmak2002.dev",
     "icon": "https://icons.duckduckgo.com/ip3/tmak2002.dev.ico",
     "slug": "tmak2002-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
@@ -15,7 +15,9 @@
     "timeWeek": 720,
     "timeMonth": 670,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-10": 1
+    }
   },
   {
     "name": "catsarebeautiful.de",
@@ -59,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
     "status": "down",
-    "uptime": "38.35%",
+    "uptime": "38.23%",
     "uptimeDay": "25.95%",
     "uptimeWeek": "44.25%",
-    "uptimeMonth": "38.35%",
-    "uptimeYear": "38.35%",
+    "uptimeMonth": "38.23%",
+    "uptimeYear": "38.23%",
     "time": 1677,
     "timeDay": 5308,
     "timeWeek": 2013,
     "timeMonth": 1677,
     "timeYear": 1677,
     "dailyMinutesDown": {
-      "2025-09-10": 694,
+      "2025-09-10": 761,
       "2025-09-09": 1031,
       "2025-09-08": 1015,
       "2025-09-07": 334,
