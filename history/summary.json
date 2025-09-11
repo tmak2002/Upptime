@@ -58,17 +58,17 @@
     "url": "https://redlib.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "39.19%",
-    "uptimeDay": "9.92%",
+    "status": "down",
+    "uptime": "41.21%",
+    "uptimeDay": "10.47%",
     "uptimeWeek": "42.07%",
-    "uptimeMonth": "39.19%",
-    "uptimeYear": "39.19%",
-    "time": 1767,
-    "timeDay": 5048,
-    "timeWeek": 2007,
-    "timeMonth": 1767,
-    "timeYear": 1767,
+    "uptimeMonth": "41.21%",
+    "uptimeYear": "41.21%",
+    "time": 1823,
+    "timeDay": 5818,
+    "timeWeek": 2113,
+    "timeMonth": 1823,
+    "timeYear": 1823,
     "dailyMinutesDown": {
       "2025-09-11": 410,
       "2025-09-10": 1357,
@@ -84,7 +84,7 @@
       "2025-08-31": 1248,
       "2025-08-30": 926,
       "2025-08-29": 1121,
-      "2025-08-28": 991
+      "2025-08-28": 544
     }
   },
   {
