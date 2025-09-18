@@ -1,7 +1,7 @@
 url: https://search.catsarebeautiful.de
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2025-09-18T19:49:26.649Z
+status: down
+code: 500
+responseTime: 565
+lastUpdated: 2025-09-18T20:09:40.180Z
 startTime: 2025-08-26T17:49:27.650Z
 generator: Upptime <https://github.com/upptime/upptime>
