@@ -24,19 +24,19 @@
     "url": "https://catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/catsarebeautiful.de.ico",
     "slug": "catsarebeautiful-de",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 542,
-    "timeDay": 477,
-    "timeWeek": 509,
-    "timeMonth": 542,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 547,
+    "timeDay": 578,
+    "timeWeek": 530,
+    "timeMonth": 547,
+    "timeYear": 547,
     "dailyMinutesDown": {
-      "2025-09-18": 10
+      "2025-09-18": 20
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://search.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/search.catsarebeautiful.de.ico",
     "slug": "sear-xng",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 545,
-    "timeDay": 435,
-    "timeWeek": 491,
-    "timeMonth": 545,
-    "timeYear": 545,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 549,
+    "timeDay": 508,
+    "timeWeek": 509,
+    "timeMonth": 549,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-09-18": 10
+      "2025-09-18": 0
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "45.71%",
-    "uptimeDay": "30.21%",
-    "uptimeWeek": "12.91%",
-    "uptimeMonth": "45.71%",
-    "uptimeYear": "45.71%",
+    "uptime": "45.23%",
+    "uptimeDay": "31.57%",
+    "uptimeWeek": "13.11%",
+    "uptimeMonth": "45.23%",
+    "uptimeYear": "45.23%",
     "time": 2092,
     "timeDay": 1026,
     "timeWeek": 2724,
     "timeMonth": 2092,
     "timeYear": 2092,
     "dailyMinutesDown": {
-      "2025-09-18": 697,
+      "2025-09-18": 687,
       "2025-09-17": 1229,
       "2025-09-16": 1301,
       "2025-09-15": 1028,
@@ -93,7 +93,7 @@
       "2025-09-04": 913,
       "2025-09-03": 945,
       "2025-09-02": 1137,
-      "2025-09-01": 361
+      "2025-09-01": 534
     }
   },
   {
@@ -102,19 +102,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxitok.catsarebeautiful.de.ico",
     "slug": "proxitok",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 533,
     "timeWeek": 491,
     "timeMonth": 525,
     "timeYear": 525,
-    "dailyMinutesDown": {
-      "2025-09-18": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AnonymousOverflow",
@@ -122,18 +120,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/overflow.catsarebeautiful.de.ico",
     "slug": "anonymous-overflow",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 499,
     "timeDay": 431,
     "timeWeek": 453,
     "timeMonth": 499,
     "timeYear": 499,
-    "dailyMinutesDown": {
-      "2025-09-18": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
