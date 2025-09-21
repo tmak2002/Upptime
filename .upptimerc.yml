@@ -11,8 +11,6 @@ sites:
     url: https://search.catsarebeautiful.de
   - name: Redlib
     url: https://redlib.catsarebeautiful.de
-  - name: Proxitok
-    url: https://proxitok.catsarebeautiful.de
   - name: AnonymousOverflow
     url: https://overflow.catsarebeautiful.de
   - name: Mozhi
