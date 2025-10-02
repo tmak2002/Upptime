@@ -25,11 +25,11 @@
     "url": "https://catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/catsarebeautiful.de.ico",
     "slug": "catsarebeautiful-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 538,
     "timeDay": 464,
@@ -37,6 +37,7 @@
     "timeMonth": 546,
     "timeYear": 538,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-18": 20
     }
   },
@@ -45,9 +46,9 @@
     "url": "https://search.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/search.catsarebeautiful.de.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -57,6 +58,7 @@
     "timeMonth": 545,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-18": 26
     }
   },
@@ -65,18 +67,19 @@
     "url": "https://redlib.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
-    "status": "up",
-    "uptime": "65.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "66.26%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.57%",
-    "uptimeYear": "65.26%",
+    "uptimeMonth": "61.58%",
+    "uptimeYear": "66.26%",
     "time": 2069,
-    "timeDay": 2907,
+    "timeDay": 1269,
     "timeWeek": 2280,
-    "timeMonth": 2413,
+    "timeMonth": 2463,
     "timeYear": 2069,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-18": 852,
       "2025-09-17": 1229,
       "2025-09-16": 1301,
@@ -94,7 +97,7 @@
       "2025-09-04": 913,
       "2025-09-03": 945,
       "2025-09-02": 1137,
-      "2025-09-01": 361
+      "2025-09-01": 210
     }
   },
   {
@@ -102,9 +105,9 @@
     "url": "https://overflow.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/overflow.catsarebeautiful.de.ico",
     "slug": "anonymous-overflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,25 +116,28 @@
     "timeWeek": 466,
     "timeMonth": 492,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Mozhi",
     "url": "https://mozhi.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.catsarebeautiful.de.ico",
     "slug": "mozhi",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.52%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 710,
     "timeDay": 592,
     "timeWeek": 706,
     "timeMonth": 710,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2025-10-02": 0,
       "2025-09-24": 283
     }
   }
