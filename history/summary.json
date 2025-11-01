@@ -11,9 +11,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.88%",
     "time": 642,
-    "timeDay": 523,
-    "timeWeek": 633,
-    "timeMonth": 631,
+    "timeDay": 629,
+    "timeWeek": 622,
+    "timeMonth": 636,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2025-10-09": 40,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 527,
-    "timeDay": 455,
-    "timeWeek": 499,
-    "timeMonth": 507,
-    "timeYear": 527,
+    "time": 528,
+    "timeDay": 535,
+    "timeWeek": 491,
+    "timeMonth": 513,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2025-09-18": 20
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 531,
-    "timeDay": 506,
-    "timeWeek": 508,
-    "timeMonth": 511,
-    "timeYear": 531,
+    "time": 530,
+    "timeDay": 459,
+    "timeWeek": 477,
+    "timeMonth": 512,
+    "timeYear": 530,
     "dailyMinutesDown": {
       "2025-09-18": 26
     }
@@ -67,18 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "80.76%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "80.76%",
-    "time": 2024,
-    "timeDay": 2936,
-    "timeWeek": 1880,
-    "timeMonth": 1760,
-    "timeYear": 2024,
+    "uptime": "80.65%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "80.65%",
+    "time": 2022,
+    "timeDay": 2973,
+    "timeWeek": 1867,
+    "timeMonth": 1755,
+    "timeYear": 2022,
     "dailyMinutesDown": {
-      "2025-10-31": 8,
       "2025-10-20": 62,
       "2025-10-07": 132,
       "2025-10-06": 500,
@@ -99,7 +98,7 @@
       "2025-09-05": 1092,
       "2025-09-04": 913,
       "2025-09-03": 945,
-      "2025-09-02": 151
+      "2025-09-02": 314
     }
   },
   {
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 487,
-    "timeWeek": 467,
-    "timeMonth": 492,
-    "timeYear": 495,
+    "time": 493,
+    "timeDay": 360,
+    "timeWeek": 455,
+    "timeMonth": 489,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -132,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
     "time": 736,
-    "timeDay": 604,
-    "timeWeek": 717,
-    "timeMonth": 742,
+    "timeDay": 729,
+    "timeWeek": 719,
+    "timeMonth": 745,
     "timeYear": 736,
     "dailyMinutesDown": {
       "2025-09-24": 283
