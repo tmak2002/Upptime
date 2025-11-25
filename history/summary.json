@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 642,
-    "timeDay": 530,
-    "timeWeek": 706,
+    "timeDay": 690,
+    "timeWeek": 690,
     "timeMonth": 638,
     "timeYear": 642,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 534,
-    "timeDay": 414,
-    "timeWeek": 592,
-    "timeMonth": 542,
+    "timeDay": 481,
+    "timeWeek": 568,
+    "timeMonth": 538,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-09-18": 20
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 536,
-    "timeDay": 420,
-    "timeWeek": 545,
-    "timeMonth": 541,
+    "timeDay": 588,
+    "timeWeek": 535,
+    "timeMonth": 538,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-09-18": 26
@@ -67,18 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
     "status": "up",
-    "uptime": "85.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "85.90%",
-    "time": 2018,
-    "timeDay": 2605,
-    "timeWeek": 1873,
-    "timeMonth": 1932,
-    "timeYear": 2018,
+    "uptime": "85.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "85.79%",
+    "time": 2016,
+    "timeDay": 2661,
+    "timeWeek": 1847,
+    "timeMonth": 1927,
+    "timeYear": 2016,
     "dailyMinutesDown": {
-      "2025-11-24": 14,
       "2025-10-20": 62,
       "2025-10-07": 132,
       "2025-10-06": 500,
@@ -99,7 +98,7 @@
       "2025-09-05": 1092,
       "2025-09-04": 913,
       "2025-09-03": 945,
-      "2025-09-02": 151
+      "2025-09-02": 314
     }
   },
   {
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 413,
-    "timeWeek": 562,
-    "timeMonth": 502,
-    "timeYear": 499,
+    "time": 500,
+    "timeDay": 575,
+    "timeWeek": 549,
+    "timeMonth": 506,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   },
   {
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 746,
-    "timeDay": 587,
-    "timeWeek": 813,
-    "timeMonth": 754,
-    "timeYear": 746,
+    "time": 748,
+    "timeDay": 868,
+    "timeWeek": 798,
+    "timeMonth": 759,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2025-09-24": 283
     }
