@@ -26,9 +26,9 @@
     "url": "https://catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/catsarebeautiful.de.ico",
     "slug": "catsarebeautiful-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 529,
     "timeYear": 530,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-09-18": 20
     }
   },
@@ -46,9 +47,9 @@
     "url": "https://search.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/search.catsarebeautiful.de.ico",
     "slug": "sear-xng",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -58,6 +59,7 @@
     "timeMonth": 515,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-09-18": 26
     }
   },
@@ -67,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/redlib.catsarebeautiful.de.ico",
     "slug": "redlib",
     "status": "down",
-    "uptime": "76.42%",
+    "uptime": "75.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.08%",
-    "uptimeYear": "76.42%",
+    "uptimeMonth": "50.42%",
+    "uptimeYear": "75.87%",
     "time": 1957,
     "timeDay": 531,
     "timeWeek": 654,
     "timeMonth": 1244,
     "timeYear": 1957,
     "dailyMinutesDown": {
-      "2025-12-18": 16,
+      "2025-12-18": 1183,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
@@ -122,9 +124,9 @@
     "url": "https://overflow.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/overflow.catsarebeautiful.de.ico",
     "slug": "anonymous-overflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,16 +135,18 @@
     "timeWeek": 509,
     "timeMonth": 501,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-18": 0
+    }
   },
   {
     "name": "Mozhi",
     "url": "https://mozhi.catsarebeautiful.de",
     "icon": "https://icons.duckduckgo.com/ip3/mozhi.catsarebeautiful.de.ico",
     "slug": "mozhi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -152,6 +156,7 @@
     "timeMonth": 745,
     "timeYear": 743,
     "dailyMinutesDown": {
+      "2025-12-18": 0,
       "2025-09-24": 283
     }
   }
